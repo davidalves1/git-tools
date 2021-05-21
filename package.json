@@ -1,0 +1,13 @@
+{
+  "name": "lab-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "davidalves1 <alves.david@outlook.com> (https://davidalves1.com)",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "husky": "^6.0.0"
+  }
+}
